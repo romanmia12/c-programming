@@ -2,6 +2,7 @@
 int main ()
 {
    int a;
+   //Two and jobair
    int b;
    int sum;
    a = 50;
